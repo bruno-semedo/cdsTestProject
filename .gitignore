@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs
+/CDSTestProject/bin/Debug/netcoreapp3.1
+/CDSTestProject/obj
